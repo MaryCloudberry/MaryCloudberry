@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaryCloudberry
-- 👀 I’m interested in programming lol
-- 🌱 I’m currently learning html, python
-- 💞️ I’m looking to collaborate on nothing ;(
-- 📫 How to reach me - pls don't
+- 👀 I’m interested in programming, video games, learning japanese and spanish
+- 🌱 I’m currently learning html, python, c++, assembly, sql
+- 💞️ I’m looking to collaborate on nothing for now
+- 📫 How to reach me - no way unfortunately
 
 <!---
 MaryCloudberry/MaryCloudberry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
